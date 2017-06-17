@@ -417,7 +417,7 @@ PLAY RECAP ********************************************************************
 ### Playbook - Tags
 
 ```
-$ ansible-playbook site.yml --tags pkg_upgrade
+ $ ansible-playbook site.yml --tags pkg_upgrade
 ```
 
 ```
@@ -497,8 +497,6 @@ skipping: [104.131.3.142]
 ```
 
 ---
-
-<br>
 
 ![inline 140%](logos/obrigado.jpg)
 
