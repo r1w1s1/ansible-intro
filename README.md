@@ -14,7 +14,7 @@
 
 ---
 
- Ansible foi criado por Michael Dehaan com a ideia principal de ser **simples** e **poderosa**.
+> Ansible foi criado por Michael Dehaan com a ideia principal de ser **simples** e **poderosa**.
 
 ---
 
