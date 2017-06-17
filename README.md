@@ -165,7 +165,7 @@ localhost | success >> {
             "10.0.2.15"
     ],
     "ansible_distribution": "CentOS",
-    ”ansible_distribution_major_version": “7”,
+    "ansible_distribution_major_version": "7",
     "ansible_distribution_release": "Core",
     "ansible_distribution_version": "7.1.1503",
     "ansible_domain": "localdomain",
