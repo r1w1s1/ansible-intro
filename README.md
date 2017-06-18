@@ -4,16 +4,6 @@
 
 ---
 
-### ➜  ~ > whoami
-
-- SysAdmin por mais de 15 anos.
-
-- DevOps há 1 ano.
-
-- Instrutor Linux.
-
----
-
 > Ansible foi criado por Michael Dehaan com a ideia principal de ser **simples** e **poderosa**.
 
 ---
